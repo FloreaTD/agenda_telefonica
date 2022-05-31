@@ -1,0 +1,4 @@
+Prieteni;1;Andrei;Chitu;;0796456123
+Prieteni;2;Dragoi;Alexandru;Suceava, Burdujeni;0789678224
+Prieteni;3;Andrei;Oanea;;1234567890
+

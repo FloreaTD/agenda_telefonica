@@ -1,0 +1,5 @@
+1;Andrei;Costin;;0787267001
+2;Oanea;Delia;Bodesti, Str.Precista;0733679245
+3;Florea;Tudor;Bodesti, Str Precista;0796578994
+5;Cheptrosu;Iulian;Botosani,Horodistea;0745678003
+6;qeqwrqw;qwrqwr;;0787256001
